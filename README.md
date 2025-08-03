@@ -1,4 +1,8 @@
-# Hello, I am Vinicius Gomes Tribuna.
+<h1 align="center">Hi 👋, I'm Vinicius Tribuna</h1>
+<h3 align="center">Programming student in Sao Paulo, Brazil</h3>
+- 💬 If you need to contact me, my email is viniciustribuna423@gmail.com
+- 📫 How to reach me: @_v_gomees
+- 😄 Pronouns: he/him
 
 ### My technical education in Systems Development provided me with a solid foundation in programming logic, web development, databases, and coding best practices. Since then, I have been expanding my knowledge in modern languages and technologies, focusing on both front-end and back-end. I am familiar with languages such as JavaScript, Java, C++, C#, TypeScript, Kotlin, and SQL, as well as proficient in web technologies like HTML and CSS. I work with popular frameworks like Angular and React, and also with Microsoft technologies such as .NET and XAML, aimed at developing desktop and mobile applications. I believe in continuous learning and always seek to evolve by studying new tools and practices that help me build efficient and quality solutions. I am ready to apply this knowledge in real projects and collaborate with technology teams in a dedicated, creative, and responsible manner.
 
