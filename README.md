@@ -72,8 +72,18 @@
 
 ## 📱 Redes Sociais
 
-[![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vinn1z_?_t=ZM-8yYrOW0XIwv&_r=1)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/_v_gomees/)
+<h3 align="left">Redes Sociais:</h3>
+<p align="left">
+  <a href="https:https://www.linkedin.com/in/vinicius-gomes-72290428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/_v_gomees?igsh=ZW95cThvcndjYXM5&utm_source=qr" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.tiktok.com/@vinn1z_?_t=ZM-8yYrOW0XIwv&_r=1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="tiktok" width="40" height="40"/>
+  </a>
+</p>
 
 ## 👨‍💻 Status GitHub
 
