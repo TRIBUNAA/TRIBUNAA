@@ -8,7 +8,7 @@
 
 ## 📱 Redes Sociais
 
-[![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://https://www.tiktok.com/@vinn1z_?)_t=8nSIh2go2Uf&_r=1&fbclid=PAQ0xDSwL71oBleHRuA2FlbQIxMQABpwSi6SjqoR2VhmTHa43kfPnLHvX9BVMopVfCezhYFWUQG1w0_LYKQSf4dZOY_aem_A6QCCqjL_4Prg-rCwkF5HQ
+[![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://https://www.tiktok.com/@vinn1z_?_t=8nSIh2go2Uf&_r=1&fbclid=PAQ0xDSwL71oBleHRuA2FlbQIxMQABpwSi6SjqoR2VhmTHa43kfPnLHvX9BVMopVfCezhYFWUQG1w0_LYKQSf4dZOY_aem_A6QCCqjL_4Prg-rCwkF5HQ)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/_v_gomees/)
 
 ## 👨‍💻 Status GitHub
