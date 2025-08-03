@@ -1,6 +1,10 @@
 # Olá, Eu sou o Vinicius Gomes Tribuna👋😎
 
-### Estudante de Desenvolvimento de Sistemas na ETEC HAS, atualmente cursando o segundo módulo. Tenho interesse em aprender e aplicar novas tecnologias para criar soluções eficientes e inovadoras, busco constantemente aprender novas linguagens e ferramentas para aprimorar minhas habilidades. 
+### Minha formação técnica em Desenvolvimento de Sistemas me proporcionou uma base sólida em lógica de programação, desenvolvimento web, bancos de dados e boas práticas de codificação. Desde então, venho expandindo meus conhecimentos em linguagens e tecnologias modernas, com foco tanto no front-end quanto no back-end.
+
+Tenho familiaridade com linguagens como JavaScript, Java, C++, C#, TypeScript, Kotlin e SQL, além de domínio em tecnologias web como HTML e CSS. Trabalho com frameworks populares como Angular e React, e também com tecnologias da Microsoft, como .NET e XAML, voltadas para o desenvolvimento de aplicações desktop e mobile.
+
+Acredito na importância do aprendizado contínuo e busco sempre evoluir, estudando novas ferramentas e práticas que me ajudem a construir soluções eficientes e de qualidade. Estou pronto para aplicar esses conhecimentos em projetos reais e colaborar com equipes de tecnologia de forma dedicada, criativa e responsável.
 
 ## 📱 Redes Sociais
 
